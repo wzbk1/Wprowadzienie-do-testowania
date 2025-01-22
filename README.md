@@ -1,2 +1,2 @@
 # Wprowadzienie-do-testowania
-uczę się
+uczę się dziś do 15.30
