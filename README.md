@@ -12,12 +12,16 @@ requirements.txt  - Zależności
 ## Instalacja
 
 1. Sklonuj repozytorium:
-       w git bash:
-   git clone https://github.com/wzbk1/Wprowadzienie-do-testowania
-   cd Wprowadzienie-do-testowania
+
+w git bash:
+
+git clone https://github.com/wzbk1/Wprowadzienie-do-testowania
+
+cd Wprowadzienie-do-testowania
 
 3. Zainstaluj wymagane zależności:
-        pip install -r requirements.txt
+
+pip install -r requirements.txt
 
 4. Uruchom testy:
         pytest
